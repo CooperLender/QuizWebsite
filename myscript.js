@@ -14,6 +14,19 @@ $(document).ready(function() {
 	$("#button3").click(function() {
 		$("#a3").toggle();
 	});
+		$("#button4").click(function() {
+		$("#a4").toggle();
+	});
+		$("#button5").click(function() {
+		$("#a5").toggle();
+	});
+		$("#button6").click(function() {
+		$("#a6").toggle();
+	});
+	$("#button7").click(function() {
+		$("#a7").toggle();
+	});
+	
 	$(window).on( "resize", function(){
 		$("*").toggle();
 	});

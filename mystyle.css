@@ -23,6 +23,21 @@ h1{
     font-family: "Lucida Console", "Courier New", monospace;
     
 }
+.appear{
+    font-size: 200%;
+    color:rgb(255, 0, 51);
+    font-family: "Lucida Console", "Courier New", monospace;
+    
+}
+a:link{
+color:green;
+}
+a:visited{
+color:AntiqueWhite;
+}
+a:hover{
+color:rgb(255, 0, 51);
+}
 button{
   background-color: rgb(102, 204, 51); /* #04AA6D*/
   border: none;
